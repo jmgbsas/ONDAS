@@ -143,13 +143,22 @@ Dim milagro As Double = 528
 Dim relaciones As Double = 639
 Dim intuicion As Double = 741
 Dim pineal As Double = 963
+Dim miedos As Double = 396
 
 Dim  As Integer tipo, segundos
+Print " La Durcion Se habla de 15 min a 30 min, yo empezaria de a poco"
+Print " =============================================================="
+
 Print "1) alineaUniverso    = 432 "
 Print "2) milagro Salud     = 528 "
 Print "3) relaciones y amor = 639 "
 Print "4) intuicion         = 741 "
 Print "5) pineal  Dios      = 963 "
+Print "6) Liberar Miedos y Culpas = 396"
+Print "7) Limpieza de energías negativas y transformación. = 417"
+Print "8) Inntuicion y tercer ojo = 852"
+
+Print " 15 min son 900 segundos a 30 min 1800 se gundos"
 
 Input "elegir  tipo de onda 1,2,3,4,5 ", tipo
 Input "Duracion en segundos que se desea escuchar ", segundos
@@ -165,6 +174,13 @@ Select Case tipo
  EmitirTono(intuicion, segundos)
 Case 5
  EmitirTono(pineal, segundos)
+Case 6
+ EmitirTono(miedos, segundos)
+Case 7
+ EmitirTono(417.0, segundos)
+Case 8
+ EmitirTono(852.0, segundos)
+
 End Select
 
 
