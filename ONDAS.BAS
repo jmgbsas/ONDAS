@@ -134,7 +134,9 @@ End Sub
 ' ==========================================
 
 Print "Generando ondas senoidales..."
-Print "Reproduciendo escala..."
+Print "Reproduciendo Ondas Sanadoras... "
+Print "Descargo de responsabilidad: Las frecuencias no sustituyen "
+Print "tratamientos médicos y sus efectos varían individualmente"
 
 ' Frecuencias aproximadas de la escala (Octava 4) reemplazdo por ondas de bienestar
 '-----modificaciones
@@ -160,7 +162,7 @@ Print "8) Inntuicion y tercer ojo = 852"
 
 Print " 15 min son 900 segundos a 30 min 1800 se gundos"
 
-Input "elegir  tipo de onda 1,2,3,4,5 ", tipo
+Input "elegir  tipo de onda 1,2,3,4,5... ", tipo
 Input "Duracion en segundos que se desea escuchar ", segundos
 
 Select Case tipo 
