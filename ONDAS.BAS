@@ -140,48 +140,52 @@ Print "tratamientos médicos y sus efectos varían individualmente"
 
 ' Frecuencias aproximadas de la escala (Octava 4) reemplazdo por ondas de bienestar
 '-----modificaciones
-Dim alineaUniverso As Double = 432
-Dim milagro As Double = 528
-Dim relaciones As Double = 639
-Dim intuicion As Double = 741
-Dim pineal As Double = 963
-Dim miedos As Double = 396
 
 Dim  As Integer tipo, segundos
 Print " La Durcion Se habla de 15 min a 30 min, yo empezaria de a poco"
 Print " =============================================================="
 
-Print "1) alineaUniverso    = 432 "
-Print "2) milagro Salud     = 528 "
-Print "3) relaciones y amor = 639 "
-Print "4) intuicion         = 741 "
-Print "5) pineal  Dios      = 963 "
-Print "6) Liberar Miedos y Culpas = 396"
-Print "7) Limpieza de energías negativas y transformación. = 417"
-Print "8) Inntuicion y tercer ojo = 852"
+Print "Las 9 frecuencias restantes de Solfeggio "
+Print"
+Print "1) 174 Hz 	Alivio del dolor, conexión a tierra   Sanación física, seguridad."
+Print "2) 285 Hz 	Curación celular, regeneración 	     Reparación de tejidos, vitalidad"
+Print "3) 396 Hz 	Liberación del miedo/culpa            Liberación emocional, chakra raíz"
+Print "4) 417 Hz 	Transformación, cambio 	              Dejar ir, nuevos comienzos"
+Print "5) 528 Hz 	Amor, reparación del ADN              Sanación del corazón, transformación"
+Print "6) 639 Hz 	Conexión, relaciones                  Comunicación, armonía"
+Print "7) 741 Hz 	Expresión, desintoxicación 	        Claridad, resolución de problemas"
+Print "8) 852 Hz 	Intuición, conciencia espiritual      Tercer ojo, sabiduría interior"
+Print "9) 963 Hz 	Conexión divina, iluminación 	        Chakra corona, unidad" 
+Print "  otras adicionales"
+Print "10) 432 Alinearse con el Universo(la musica del medioevo)    = 432 "
 
-Print " 15 min son 900 segundos a 30 min 1800 se gundos"
 
-Input "elegir  tipo de onda 1,2,3,4,5... ", tipo
+
+Input "elegir  tipo de onda 1, a 10 ... ", tipo
+Print " 15 min son 900 segundos, 30 min 1800 segundos"
 Input "Duracion en segundos que se desea escuchar ", segundos
 
 Select Case tipo 
  Case 1 
- EmitirTono(alineaUniverso, segundos)
- Case 2
- EmitirTono(milagro, segundos)
+ EmitirTono(174.0, segundos)
+Case 2
+ EmitirTono(285.0, segundos)
  Case 3
- EmitirTono(relaciones, segundos)
-  Case 4
- EmitirTono(intuicion, segundos)
-Case 5
- EmitirTono(pineal, segundos)
-Case 6
- EmitirTono(miedos, segundos)
-Case 7
+ EmitirTono(396.0, segundos)
+ Case 4
  EmitirTono(417.0, segundos)
+  Case 5
+ EmitirTono(528.0, segundos)
+Case 6
+ EmitirTono(639.0, segundos)
+Case 7
+ EmitirTono(741.0, segundos)
 Case 8
  EmitirTono(852.0, segundos)
+Case 9
+ EmitirTono(963.0, segundos)
+Case 10
+ EmitirTono(432.0, segundos)
 
 End Select
 
