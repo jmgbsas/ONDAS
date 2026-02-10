@@ -145,11 +145,11 @@ Dim intuicion As Double = 741
 Dim pineal As Double = 963
 
 Dim  As Integer tipo, segundos
-Print "1) alineaUniverso As Double = 432 "
-Print "2) milagro As Double = 528 "
-Print "3) relaciones As Double = 639 "
-Print "4) intuicion As Double = 741 "
-Print "5) pineal As Double = 963 "
+Print "1) alineaUniverso    = 432 "
+Print "2) milagro Salud     = 528 "
+Print "3) relaciones y amor = 639 "
+Print "4) intuicion         = 741 "
+Print "5) pineal  Dios      = 963 "
 
 Input "elegir  tipo de onda 1,2,3,4,5 ", tipo
 Input "Duracion en segundos que se desea escuchar ", segundos

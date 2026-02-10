@@ -6,7 +6,8 @@
 
 ONDAS VERSION 1
 
-Funciona en una consola, 
+Funciona en una consola
+ 
  I)  elegir el tipo de onda son 5
    1) alineaUniverso  432 "
    2) milagro         528 "
