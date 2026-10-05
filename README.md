@@ -27,14 +27,49 @@ Frecuencia Beneficio principal 	                 Mejor para
 9) 963 Hz  Conexión divina, iluminación          Chakra corona, unidad
     otras adicionales
 10) 432 Alinearse con el Universo(la musica del medioevo)    = 432 
-                                                                                            
+
 Elegir  tipo de onda 1, a 10 ... 
+
+--------------------------------------------------------------------------------
+ONDAS VERSION 2
+
+Version 2 opciones adicionales
+  ==============================================================
+           Otras Ondas adicionales :
+  ==============================================================
+  10) 432 Alinearse con el Universo(la NOTA LA musica del medioevo)    = 432
+  -------------------------------------------------------------------
+  11) 7.83 Frecuencia Shuman la usaba Edgar Cayce  Curaciones
+     Armonicos de 7,83 multiplicar por un nro -> 15,66, audibles ->{ 23,49 -> 31,32-> 39,15....
+  12) Armonico * 3    -> 23,49
+  13) Armonico * 4    -> 31,32
+  14) Armonico * 5    -> 39,15
+  15) Armonico * 6    -> 46,98
+  16) Armonico * 7    -> 54,81
+  17) Armonico * 8    -> 62,64
+  18) Armonico * 9    -> 70,47
+  19) Armonico * 10   -> 78,3
+  20) Armonico * 20   -> 156,6
+  21) Armonico * 100  -> 783
+  22) Armonico * 1000 -> 7830
+  23) Armonico a eleccion entre el Nro a multiplicar
+  24) El ronroneo del gato va de 25 a 140, experimental ..
+      pero es por contacto 140-25=115 PROMEDIO 57.5
+      TAMBIEN SIRVE PARA CUALQUIER FRECUENCIA EJ LA/8=54
+  25) LA MITAD DE NOTA LA DE 10) 432/2 = 216
+  26) UN CUARTO  DE NOTA LA DE 10) 432/4 = 108                                                                                            
+
+Elegir  tipo de onda 1, a 26 ... 
 
  II) y luego  la duracion en segundos
  15 min son 900 segundos, 30 min 1800 segundos
  Duracion en segundos que se desea escuchar 
 
+ Si se entra una frecuencia con decimales usar el putno como
+ decimal.
  Se puede interrumpir con Ctrl-C como todo programita de consola
- Luego de trscurrida la duracion Termina e imprime  Fin en pantalla
- espera un puldo de cualqueir  tecla y termina
+ Luego de transcurrida la duracion vuelve a hacer un cilco nuevo
+ hace las 2 preguntas si se da enter sin entrar nada implica ceros
+ y el programa Termina e imprime  Fin en pantalla.
+ Espera un pulso adicional de cualquier  tecla y se cierra.
 

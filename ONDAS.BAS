@@ -138,7 +138,7 @@ Print "Reproduciendo Ondas Sanadoras... "
 Print "Descargo de responsabilidad: Las frecuencias no sustituyen "
 Print "tratamientos médicos y sus efectos varían individualmente"
 
-' Frecuencias aproximadas de la escala (Octava 4) reemplazdo por ondas de bienestar
+' Frecuencias  ondas de bienestar
 '-----modificaciones
 
 Dim  As Integer tipo, segundos
