@@ -60,10 +60,12 @@ Version 2 opciones adicionales
   25) LA MITAD DE NOTA LA DE 10) 432/2 = 216
   26) UN CUARTO  DE NOTA LA DE 10) 432/4 = 108                                                                                            
 
- I) Luego  la duracion en segundos
-     15 min son 900 segundos, 30 min 1800 segundos
-     Duracion en segundos que se desea escuchar 
- II)  Elegir  tipo de onda 1, a 26 ... 
+ El programa hace 2 preguntas
+
+ I) La duracion en segundos 15 min son 900 segundos, 
+    30 min 1800 segundos.Duracion en segundos que se desea escuchar 
+
+ II) Elegir  tipo de onda 1, a 26 ... 
 
  Si se entra una frecuencia con decimales usar el punto como
  decimal.
