@@ -37,6 +37,7 @@ Version 2 opciones adicionales
   =====================================
            Otras Ondas adicionales :
   =====================================
+
   10) 432 Alinearse con el Universo(la NOTA LA musica del medioevo)    = 432
   -------------------------------------------------------------------
   11) 7.83 Frecuencia Shuman la usaba Edgar Cayce  Curaciones
@@ -59,11 +60,10 @@ Version 2 opciones adicionales
   25) LA MITAD DE NOTA LA DE 10) 432/2 = 216
   26) UN CUARTO  DE NOTA LA DE 10) 432/4 = 108                                                                                            
 
- I)  Elegir  tipo de onda 1, a 26 ... 
-
- II) Luego  la duracion en segundos
+ I) Luego  la duracion en segundos
      15 min son 900 segundos, 30 min 1800 segundos
      Duracion en segundos que se desea escuchar 
+ II)  Elegir  tipo de onda 1, a 26 ... 
 
  Si se entra una frecuencia con decimales usar el punto como
  decimal.
