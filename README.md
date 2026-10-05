@@ -30,13 +30,13 @@ Frecuencia Beneficio principal 	                 Mejor para
 
 Elegir  tipo de onda 1, a 10 ... 
 
---------------------------------------------------------------------------------
+----------------------------------------------------
 ONDAS VERSION 2
 
 Version 2 opciones adicionales
-  ==============================================================
+  =====================================
            Otras Ondas adicionales :
-  ==============================================================
+  =====================================
   10) 432 Alinearse con el Universo(la NOTA LA musica del medioevo)    = 432
   -------------------------------------------------------------------
   11) 7.83 Frecuencia Shuman la usaba Edgar Cayce  Curaciones
@@ -59,17 +59,17 @@ Version 2 opciones adicionales
   25) LA MITAD DE NOTA LA DE 10) 432/2 = 216
   26) UN CUARTO  DE NOTA LA DE 10) 432/4 = 108                                                                                            
 
-Elegir  tipo de onda 1, a 26 ... 
+ I)  Elegir  tipo de onda 1, a 26 ... 
 
- II) y luego  la duracion en segundos
- 15 min son 900 segundos, 30 min 1800 segundos
- Duracion en segundos que se desea escuchar 
+ II) Luego  la duracion en segundos
+     15 min son 900 segundos, 30 min 1800 segundos
+     Duracion en segundos que se desea escuchar 
 
- Si se entra una frecuencia con decimales usar el putno como
+ Si se entra una frecuencia con decimales usar el punto como
  decimal.
  Se puede interrumpir con Ctrl-C como todo programita de consola
- Luego de transcurrida la duracion vuelve a hacer un cilco nuevo
- hace las 2 preguntas si se da enter sin entrar nada implica ceros
+ Luego de transcurrida la duracion vuelve a hacer un ciclo nuevo
+ hace las 2 preguntas, si se da enter sin entrar nada implica ceros
  y el programa Termina e imprime  Fin en pantalla.
  Espera un pulso adicional de cualquier  tecla y se cierra.
 
